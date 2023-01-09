@@ -11,7 +11,7 @@
  */
 /* The solution calculate(function calcHt) the left and right height at each node. 
 The calcHt function returns -1 if the balance of any node is viodated. 
-Tme = O(log n) Space = O(log n)
+Tme = O(n) Space = O(log n)
 */ 
 class Solution {
 public:
